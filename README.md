@@ -33,5 +33,5 @@ amazon_clone/
 
 Technologies Used:
 ___________________
-HTML – Markup for layout structure
-CSS – Styling, layout, and responsive design
+HTML – Markup for layout structure.
+CSS – Styling, layout, and responsive design.
